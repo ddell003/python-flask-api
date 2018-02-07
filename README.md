@@ -6,5 +6,7 @@ Python Restful API
 ## Steps
 ### On mac: 
 in command line:
+
 xcode-select --install
+
 do brew install python
